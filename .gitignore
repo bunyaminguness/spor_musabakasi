@@ -6,6 +6,8 @@
 # Build outputs
 /build/
 /dist/
+/out/
+/target/
 
 # Java
 *.class
@@ -13,7 +15,19 @@
 *.war
 *.ear
 
+# IDE
+/.idea/
+/.vscode/
+/.settings/
+*.iml
+.classpath
+.project
+
 # OS/editor
 .DS_Store
 Thumbs.db
 *.log
+*.swp
+*~
+*.tmp
+*.bak
