@@ -1,0 +1,19 @@
+# NetBeans
+/nbproject/private/
+/nbproject/build-impl.xml
+/nbproject/genfiles.properties
+
+# Build outputs
+/build/
+/dist/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# OS/editor
+.DS_Store
+Thumbs.db
+*.log
